@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
 
         android:textAlignment="center"
-        android:background="#3F51B5"
+        android:background="#FF5722"
          >
     </TextView>
 </RelativeLayout>
